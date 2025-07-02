@@ -7,5 +7,5 @@ secondaryBackgroundColor = "#F0F2F6"
 textColor = "#262730"
 
 [server]
-maxUploadSize = 5000
-enableXsrfProtection = false
+maxUploadSize = 1024
+enableXsrfProtection = false" > .streamlit/config.toml
